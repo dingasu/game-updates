@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "b6114d88e83945e94317e1daf485ec5f",
-      "Size": 416
+      "Hash": "458e74ad8dde4cd5b71e2aec9b925c09",
+      "Size": 415
     },
     {
       "Path": "resources/credits.json",
@@ -41,6 +41,16 @@
       "Path": "resources/editor_strings.json",
       "Hash": "960c164ce69d9f99aba2d3301ad4ab6c",
       "Size": 69455
+    },
+    {
+      "Path": "resources/animations/atkbuff.png",
+      "Hash": "6fd3772b4e45ab21ad6c4410ca6b08b1",
+      "Size": 533
+    },
+    {
+      "Path": "resources/animations/atkdebuff.png",
+      "Hash": "57e82c9ab744fee7fae2f82e2251471d",
+      "Size": 607
     },
     {
       "Path": "resources/animations/bash.png",
@@ -61,6 +71,16 @@
       "Path": "resources/animations/castsup.png",
       "Hash": "f8535966e29a968743f79b4e7359e365",
       "Size": 409
+    },
+    {
+      "Path": "resources/animations/defbuff.png",
+      "Hash": "368743dda3d1ffc7ceb88acc5c8013ef",
+      "Size": 534
+    },
+    {
+      "Path": "resources/animations/defdebuff.png",
+      "Hash": "41b0a7bd0e83d41d076a3520ff5ff8e3",
+      "Size": 599
     },
     {
       "Path": "resources/animations/Emote_Concern.png",
@@ -113,6 +133,16 @@
       "Size": 3669
     },
     {
+      "Path": "resources/animations/healmana.png",
+      "Hash": "839b69558479fbae730022d87c6fa94f",
+      "Size": 470
+    },
+    {
+      "Path": "resources/animations/healspell.png",
+      "Hash": "331d147cc5c8572b11008bf3c73dfadc",
+      "Size": 527
+    },
+    {
       "Path": "resources/animations/ice.png",
       "Hash": "505bab637a6e282f3fc25319198623f7",
       "Size": 951
@@ -149,18 +179,18 @@
     },
     {
       "Path": "resources/entities/npcbasefemale.png",
-      "Hash": "45f3e787cc5f8e17e9dcdda917e7132b",
-      "Size": 4728
+      "Hash": "0f04e266b055232a080e0c24e514a7a0",
+      "Size": 4972
     },
     {
       "Path": "resources/entities/npcbasemale.png",
-      "Hash": "bdadc3c5562002c5b6b796c005b84e82",
-      "Size": 4259
+      "Hash": "aa7bf8a8407252764a811d56300cdd74",
+      "Size": 4534
     },
     {
       "Path": "resources/entities/npcmae.png",
-      "Hash": "84ad7f8d7755c0154da3a2bec4704057",
-      "Size": 4413
+      "Hash": "f9d443f58f23292cff1eb3f62c9209fb",
+      "Size": 5121
     },
     {
       "Path": "resources/faces/base.png",
@@ -1124,7 +1154,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "7ed6724054600e2532d9439fe28aee19",
+      "Hash": "db23dab4e2dc2df03a2b51752944f977",
       "Size": 14736
     },
     {
@@ -1199,8 +1229,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "be134d9d3be582d00b8b5b571d94913f",
-      "Size": 11280
+      "Hash": "328e330ef00af6cd5c30461df2dd615e",
+      "Size": 11281
     },
     {
       "Path": "resources/gui/layouts/game/InventoryItem.json",
@@ -1239,7 +1269,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "67277ba3bf3a94412fe79755788d3d64",
+      "Hash": "cd9e1617cc952f3f8fc8be6d0eb2a37d",
       "Size": 24139
     },
     {
@@ -1289,7 +1319,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "00a18efacaee6cfa243c77da4e1147bc",
+      "Hash": "4611fcc3d1199c9c9f297fa7b3287e0c",
       "Size": 24309
     },
     {
@@ -1334,8 +1364,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "89eae19c02fca5e75da39f8e314dd209",
-      "Size": 11358
+      "Hash": "525e5e2a0c068d6edb40008f405e5e64",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -3298,34 +3328,39 @@
       "Size": 310257
     },
     {
-      "Path": "resources/paperdolls/pdollarmor1FM.png",
-      "Hash": "6fc97ddaafe73b7c8c86d851a27f6873",
-      "Size": 1735
+      "Path": "resources/paperdolls/pdollarmor2FM.png",
+      "Hash": "54b599402053edccd8060b969822f464",
+      "Size": 1801
     },
     {
-      "Path": "resources/paperdolls/pdollcap.png",
-      "Hash": "00f3d3aae165b76b4661955d56217b33",
-      "Size": 651
+      "Path": "resources/paperdolls/pdollarmorFM.png",
+      "Hash": "60e1b89b7329616bb93a11414467cb87",
+      "Size": 1808
     },
     {
       "Path": "resources/paperdolls/pdollhair1.png",
-      "Hash": "0b5ee25b9d4d9ade413a131e73cb9659",
-      "Size": 1822
+      "Hash": "5f3d29124e5ce28cd396cf4289a1b52a",
+      "Size": 1810
     },
     {
-      "Path": "resources/paperdolls/pdollrobe1FM.png",
-      "Hash": "61532abc0c0730426be71ae8eb9ff28c",
-      "Size": 1697
+      "Path": "resources/paperdolls/pdollhair2FM.png",
+      "Hash": "de64cc77a0fa041015fea01897e00893",
+      "Size": 2610
     },
     {
-      "Path": "resources/paperdolls/pdollsword1FM.png",
-      "Hash": "76d5c4053904b721ca7744c3ae23c912",
-      "Size": 732
+      "Path": "resources/paperdolls/pdollhat.png",
+      "Hash": "b6963ff5e0dfd2aa9be3e57053ceb703",
+      "Size": 765
     },
     {
-      "Path": "resources/paperdolls/pdollsword1M.png",
-      "Hash": "2f77422c967c09ea10fe6698e0d25392",
-      "Size": 725
+      "Path": "resources/paperdolls/pdollswordFM.png",
+      "Hash": "658fa799d3b804c58ce3bdc2d03c2d76",
+      "Size": 773
+    },
+    {
+      "Path": "resources/paperdolls/pdollswordM.png",
+      "Hash": "e17b35212e956b3d7983e01713637c8f",
+      "Size": 758
     },
     {
       "Path": "resources/resources/1_Cactus Stump.png",
@@ -3626,6 +3661,11 @@
       "Path": "resources/sounds/heal.wav",
       "Hash": "c57ae4e5d8d3020ae420bf33d5f034b7",
       "Size": 63864
+    },
+    {
+      "Path": "resources/sounds/mining.wav",
+      "Hash": "b23309d2308d9b8bf1953c2db1adb272",
+      "Size": 94944
     },
     {
       "Path": "resources/sounds/silence.wav",
