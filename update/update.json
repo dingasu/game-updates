@@ -45,197 +45,236 @@
     {
       "Path": "resources/animations/atkbuff.png",
       "Hash": "6fd3772b4e45ab21ad6c4410ca6b08b1",
-      "Size": 533
+      "Size": 533,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/atkdebuff.png",
       "Hash": "57e82c9ab744fee7fae2f82e2251471d",
-      "Size": 607
+      "Size": 607,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/bash.png",
       "Hash": "21838d701a3921e7589d95e325ba4476",
-      "Size": 865
+      "Size": 865,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/castatk.png",
       "Hash": "316270ca029dd7fa3127916e8eace450",
-      "Size": 378
+      "Size": 378,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/castdef.png",
       "Hash": "dc377c1540a63d31da8ba20ada2af77c",
-      "Size": 377
+      "Size": 377,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/castsup.png",
       "Hash": "f8535966e29a968743f79b4e7359e365",
-      "Size": 409
+      "Size": 409,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/defbuff.png",
       "Hash": "368743dda3d1ffc7ceb88acc5c8013ef",
-      "Size": 534
+      "Size": 534,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/defdebuff.png",
       "Hash": "41b0a7bd0e83d41d076a3520ff5ff8e3",
-      "Size": 599
+      "Size": 599,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Emote_Concern.png",
       "Hash": "453adaba5f57e3deb68982ab307659fb",
-      "Size": 3108
+      "Size": 3108,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Emote_Laugh.png",
       "Hash": "a7ea4225e053c3798beaa9f61971c2c8",
-      "Size": 3144
+      "Size": 3144,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Emote_LookAround.png",
       "Hash": "057d36512798dd58c2a74f0725c6fe93",
-      "Size": 3166
+      "Size": 3166,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Emote_Smile.png",
       "Hash": "6ee5963b50bf6c3eb2a1c52d6bfd06fa",
-      "Size": 3141
+      "Size": 3141,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Emote_Wink.png",
       "Hash": "313d2d20f4b0960a4efdd81aad047419",
-      "Size": 3168
+      "Size": 3168,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/fire1.png",
       "Hash": "6bfcf26e992f62e067035f6115ad4291",
-      "Size": 641
+      "Size": 641,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/fire2.png",
       "Hash": "98dca67028e57fff4acef08b765621f1",
-      "Size": 798
+      "Size": 798,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/firestrike.png",
       "Hash": "a292181195b8df0c58b57d5cd946a2a0",
-      "Size": 709
+      "Size": 709,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/heal.png",
       "Hash": "7e2551fd67ef03c1672eedab5ba34cbe",
-      "Size": 458
+      "Size": 458,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/Healing.png",
       "Hash": "2ecd54d210d9dad62f0a02bc3bc1b41b",
-      "Size": 3669
+      "Size": 3669,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/healmana.png",
       "Hash": "839b69558479fbae730022d87c6fa94f",
-      "Size": 470
+      "Size": 470,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/healspell.png",
       "Hash": "331d147cc5c8572b11008bf3c73dfadc",
-      "Size": 527
+      "Size": 527,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/ice.png",
       "Hash": "505bab637a6e282f3fc25319198623f7",
-      "Size": 951
+      "Size": 951,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/slash.png",
       "Hash": "5a221716f4c55782d7d6413b0a18e765",
-      "Size": 435
+      "Size": 435,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/animations/slashattack.png",
       "Hash": "42b6709cc5e359162780f22bfef0348b",
-      "Size": 444
+      "Size": 444,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/Base_Female.png",
       "Hash": "77fcc8b07c85e4e959075945aeb14034",
-      "Size": 2604
+      "Size": 2604,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/Base_Male.png",
       "Hash": "c771c80a20312ae9239491b3b0781576",
-      "Size": 116205
+      "Size": 116205,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/Mobs_Md_RockWalker_001.png",
       "Hash": "f5a912ce398d22249156c030fba339ba",
-      "Size": 4626
+      "Size": 4626,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/Mobs_Sm_Crab.png",
       "Hash": "bda5e1f49e83fe82f53aada068001fd2",
-      "Size": 2027
+      "Size": 2027,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/npcbasefemale.png",
       "Hash": "0f04e266b055232a080e0c24e514a7a0",
-      "Size": 4972
+      "Size": 4972,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/npcbasemale.png",
       "Hash": "aa7bf8a8407252764a811d56300cdd74",
-      "Size": 4534
+      "Size": 4534,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/entities/npcmae.png",
       "Hash": "f9d443f58f23292cff1eb3f62c9209fb",
-      "Size": 5121
+      "Size": 5121,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/base.png",
       "Hash": "8e1f18a43d46e86daf647c8853b6d206",
-      "Size": 719
+      "Size": 719,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/base_f.png",
       "Hash": "2f2c6f67f86caa5cb73bf6d20fe3986b",
-      "Size": 732
+      "Size": 732,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/face.png",
       "Hash": "3d56c7d18fad3c50b478f4d3615feb42",
-      "Size": 1076
+      "Size": 1076,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/facemae.png",
       "Hash": "f129dc5bcaead368696e0bf219c3cc5d",
-      "Size": 1062
+      "Size": 1062,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/face_f.png",
       "Hash": "94260c75ca6ffcf199e970a1f82c2ff1",
-      "Size": 1181
+      "Size": 1181,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/pirate.png",
       "Hash": "d189cfefd684ca16987fa36814359960",
-      "Size": 890
+      "Size": 890,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/pirate_f.png",
       "Hash": "98f2e227c13cb71faf4522b26719029f",
-      "Size": 1014
+      "Size": 1014,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/soldier_f.png",
       "Hash": "2870a57550d4ab4eb275e9a6efd32731",
-      "Size": 985
+      "Size": 985,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/faces/solider.png",
       "Hash": "d1400ed31ddd71416c08717e383bb6a9",
-      "Size": 970
+      "Size": 970,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/fonts/sourcesansproblack_10.xnb",
@@ -340,802 +379,962 @@
     {
       "Path": "resources/gui/addstatclicked.png",
       "Hash": "f0317ebb680afd0925fd851c79bb7057",
-      "Size": 264
+      "Size": 264,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/addstathover.png",
       "Hash": "62e077cc8e430e1aa4af4be9350fc26c",
-      "Size": 250
+      "Size": 250,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/addstatnormal.png",
       "Hash": "102a09cab09ac5f00914dc1dd19b3876",
-      "Size": 260
+      "Size": 260,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/background.png",
       "Hash": "e16f2e7eca2623c5351ba0a1e5fd1e1b",
-      "Size": 1062670
+      "Size": 1062670,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/bag.png",
       "Hash": "0040cc97fbf10c5ff14f415df6173c3d",
-      "Size": 1512
+      "Size": 1512,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/bagitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/bank.png",
       "Hash": "7d07460b697e7cf9a82a54bfb85f6ec2",
-      "Size": 2663
+      "Size": 2663,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/bankitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/character.png",
       "Hash": "e5095d34cc76833e8551d0dc1e3faa9f",
-      "Size": 1886
+      "Size": 1886,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/charactericon.png",
       "Hash": "018323cb7cf98c3e8969bab838caf8e2",
-      "Size": 459
+      "Size": 459,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/char_selection.png",
       "Hash": "a2187bcf22e14b74e315de243d8f5c68",
-      "Size": 2592
+      "Size": 2592,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/chatbar.png",
       "Hash": "488db9eb50da3fbcb019d8b8cd790ea0",
-      "Size": 413
+      "Size": 413,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/chatbox.png",
       "Hash": "cbb9fedefecf6b7c6f14932dfcf67166",
-      "Size": 578
+      "Size": 578,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/checkboxempty.png",
       "Hash": "860bfee605969b26bde4bc47b4996dbf",
-      "Size": 259
+      "Size": 259,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/checkboxfull.png",
       "Hash": "807c8a993ee6fd3ddd7eacb45343af8e",
-      "Size": 933
+      "Size": 933,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closeclicked.png",
       "Hash": "78aa8f5165f558eb2628538119690e11",
-      "Size": 799
+      "Size": 799,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closehover.png",
       "Hash": "e4dae9391b53ef35800f4f9a494d3033",
-      "Size": 793
+      "Size": 793,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closelargeclicked.png",
       "Hash": "5a7f7453b63294b67233216100405fdc",
-      "Size": 821
+      "Size": 821,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closelargehover.png",
       "Hash": "ea301eb748337c7611c3be5be18c0f0d",
-      "Size": 807
+      "Size": 807,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closelargenormal.png",
       "Hash": "61a1e702edbcdc8b43f31aa1fa4b0396",
-      "Size": 795
+      "Size": 795,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/closenormal.png",
       "Hash": "29102e9485d1175ac07eb24067845dbd",
-      "Size": 800
+      "Size": 800,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/control_button.png",
       "Hash": "1b6d8d16a7a938a0f59464425fc148ec",
-      "Size": 915
+      "Size": 915,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/control_button_clicked.png",
       "Hash": "d7ba80d3c34acf6ea54e96e1c371f000",
-      "Size": 880
+      "Size": 880,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/control_button_hovered.png",
       "Hash": "d86ec2d8cfa278d57afd9e9ffccc0446",
-      "Size": 959
+      "Size": 959,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/craftbar.png",
       "Hash": "84bcdc7b44791c8f7b9cbc5b5417193f",
-      "Size": 374
+      "Size": 374,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/crafting.png",
       "Hash": "1f10829b1bd15b4ccc18ef9a6f5e311e",
-      "Size": 2840
+      "Size": 2840,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/craftitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/createchar_window.png",
       "Hash": "58a9ea90569eda1063e9c4b65f0838e7",
-      "Size": 1525
+      "Size": 1525,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/credits_window.png",
       "Hash": "19b77a5072a627d497437b79d3071cf1",
-      "Size": 1581
+      "Size": 1581,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/defaultskin.png",
       "Hash": "73f2ff92c088dca33bf3db4a08cb94ab",
-      "Size": 26426
+      "Size": 26426,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/downarrowclicked.png",
       "Hash": "2bae03b06a99cbab8cc6b408deccbcc1",
-      "Size": 267
+      "Size": 267,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/downarrowhover.png",
       "Hash": "25fe3463c91d54f6a58b0625214326be",
-      "Size": 285
+      "Size": 285,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/downarrownormal.png",
       "Hash": "0aca94579483a5da5d894dc6b526f764",
-      "Size": 267
+      "Size": 267,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/dropdownbg.png",
       "Hash": "d0f11cf498bc128dd3f1a7b1d21c7779",
-      "Size": 177
+      "Size": 177,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/edit_controls_clicked.png",
       "Hash": "d7e2d0009b3e8850aca296c0ae6bdfef",
-      "Size": 1347
+      "Size": 1347,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/edit_controls_hovered.png",
       "Hash": "24be81283e350a284af665d56441387b",
-      "Size": 1367
+      "Size": 1367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/edit_controls_normal.png",
       "Hash": "d7e2d0009b3e8850aca296c0ae6bdfef",
-      "Size": 1347
+      "Size": 1347,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/emptybar.png",
       "Hash": "87680d5f7fd07852de1cbd6b4d500cd7",
-      "Size": 671
+      "Size": 671,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/entitybox.png",
       "Hash": "1fdfb11379c14bc87f448f8a8819d44e",
-      "Size": 1169
+      "Size": 1169,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/entitybox_smtop.png",
       "Hash": "d83c246c97e942890f17372c98c6eac7",
-      "Size": 1118
+      "Size": 1118,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/equipmentitem.png",
       "Hash": "62b2edbe069bb3becbe765554f6efc80",
-      "Size": 362
+      "Size": 362,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/equipped.png",
       "Hash": "b281544972311af02b6ca88fc34477c1",
-      "Size": 166
+      "Size": 166,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/error_window.png",
       "Hash": "58a9ea90569eda1063e9c4b65f0838e7",
-      "Size": 1525
+      "Size": 1525,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/event1.png",
       "Hash": "f7bdc7c2bac8353e46fb9f70ee66ed1c",
-      "Size": 904
+      "Size": 904,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/event2.png",
       "Hash": "d82c9c6c42dd8b5c543f262348c3edba",
-      "Size": 1086
+      "Size": 1086,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/event3.png",
       "Hash": "36d58c08980733853fc68940ccbf2323",
-      "Size": 1274
+      "Size": 1274,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/event4.png",
       "Hash": "59d6a555ddfee852e88fd6f0406a3ef9",
-      "Size": 1478
+      "Size": 1478,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/eventresponsecdisabled.png",
       "Hash": "b25f6883f27751a0d6e883eb9fb27f2a",
-      "Size": 1501
+      "Size": 1501,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/eventresponseclicked.png",
       "Hash": "d01feb0a0d2bafbd8b8958a94bfb57fb",
-      "Size": 1506
+      "Size": 1506,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/eventresponsehover.png",
       "Hash": "11b9b9eef762485a506b6a14f345c18e",
-      "Size": 1533
+      "Size": 1533,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/eventresponsenormal.png",
       "Hash": "35c4475668189c614548af86aaa8cc82",
-      "Size": 1512
+      "Size": 1512,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/expbar.png",
       "Hash": "457b9fd76b8d4432cf5360e33900e519",
-      "Size": 1106
+      "Size": 1106,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/forgotpass_window.png",
       "Hash": "d04d5196c47f64c2fc635134a6bb9d26",
-      "Size": 1694
+      "Size": 1694,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/friends.png",
       "Hash": "21997f2be84adec261bba4784a60e160",
-      "Size": 1592
+      "Size": 1592,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/friendsicon.png",
       "Hash": "fd65d8afca724847b3d405e22507d4e9",
-      "Size": 395
+      "Size": 395,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/gamemenu.png",
       "Hash": "8abeb65dff14f4558b688a2a8f533e52",
-      "Size": 404
+      "Size": 404,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/hotbar.png",
       "Hash": "7e619889075ade10b8e5d93529a262b6",
-      "Size": 437
+      "Size": 437,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/hotbaritem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/hotbar_label.png",
       "Hash": "b281544972311af02b6ca88fc34477c1",
-      "Size": 166
+      "Size": 166,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/hpbar.png",
       "Hash": "bb6c2a57202dc1b31be0f4058efd4893",
-      "Size": 825
+      "Size": 825,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_charselect.png",
       "Hash": "4251dad26cf81147a43eb05944a1440a",
-      "Size": 5949
+      "Size": 5949,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_charselect_clicked.png",
       "Hash": "a28d4d815cbe73c235283cd67b0effed",
-      "Size": 8033
+      "Size": 8033,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_charselect_disabled.png",
       "Hash": "63e4c17e956794358df3ef4fd0c685f3",
-      "Size": 6119
+      "Size": 6119,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_charselect_hovered.png",
       "Hash": "cfa5a03a2567de3eadaf29f4dc4fa094",
-      "Size": 8322
+      "Size": 8322,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_closemenu.png",
       "Hash": "087180355f5219073e8b5e7bd62ff63e",
-      "Size": 4772
+      "Size": 4772,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_closemenu_clicked.png",
       "Hash": "ad3c3dfa09da16723d8321dc220788b4",
-      "Size": 6104
+      "Size": 6104,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_closemenu_disabled.png",
       "Hash": "d32f7333d32085e411d66c5f48ca7278",
-      "Size": 4720
+      "Size": 4720,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_closemenu_hovered.png",
       "Hash": "bd216a3a1a564c625b343dc4755d5709",
-      "Size": 6305
+      "Size": 6305,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_exitdesktop.png",
       "Hash": "b420406026954019576076063707405b",
-      "Size": 5026
+      "Size": 5026,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_exitdesktop_clicked.png",
       "Hash": "cf561e63e404a49dc676337dbbba8003",
-      "Size": 6471
+      "Size": 6471,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_exitdesktop_disabled.png",
       "Hash": "e49f1c78c6cf74d68871e22191a61572",
-      "Size": 5031
+      "Size": 5031,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_exitdesktop_hovered.png",
       "Hash": "5468d2776667ac7395a13edeea7403f8",
-      "Size": 6764
+      "Size": 6764,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_logout.png",
       "Hash": "88fff3caefd416a758d4ba6778146764",
-      "Size": 5872
+      "Size": 5872,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_logout_clicked.png",
       "Hash": "8a622729e712ec3f027ed6110ae91d22",
-      "Size": 8058
+      "Size": 8058,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_logout_disabled.png",
       "Hash": "b479969f617957cb639acdd13cdc1d8f",
-      "Size": 6020
+      "Size": 6020,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_logout_hovered.png",
       "Hash": "1572e659d3f7591e5ffa2660bdcb8a2e",
-      "Size": 8277
+      "Size": 8277,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_menu.png",
       "Hash": "0278be9a462d8ea4b0c5af2213ed1b1f",
-      "Size": 1900
+      "Size": 1900,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_settings.png",
       "Hash": "04b10dc2cc616d319508f5a35f6afbcb",
-      "Size": 6118
+      "Size": 6118,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_settings_clicked.png",
       "Hash": "8104730c814f82eafeefb2beae8f1330",
-      "Size": 7962
+      "Size": 7962,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_settings_disabled.png",
       "Hash": "1b8fa44ae19dad8672e283f0853ede40",
-      "Size": 6057
+      "Size": 6057,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/ingame_settings_hovered.png",
       "Hash": "25af2b42b015e17f08984aad809b762e",
-      "Size": 8280
+      "Size": 8280,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inputfield.png",
       "Hash": "1188315af0f3a79fed03c8269e5b58d4",
-      "Size": 443
+      "Size": 443,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inputfield_newchar.png",
       "Hash": "82423f861bb2c083f37aae87fb74a81f",
-      "Size": 627
+      "Size": 627,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inputfield_slim.png",
       "Hash": "f3739c9aaf6f4c09a90e7f74c874b816",
-      "Size": 273
+      "Size": 273,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inventory.png",
       "Hash": "6aa3d5ce3d42fd2273e6afff1fd80153",
-      "Size": 1399
+      "Size": 1399,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inventoryicon.png",
       "Hash": "ea4fb7631a00184d4d211a412a6c7fac",
-      "Size": 430
+      "Size": 430,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/inventoryitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/itemdesc.png",
       "Hash": "358bca09f3dc2e174b3341ae4420c24e",
-      "Size": 953
+      "Size": 953,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/itemdescexpanded.png",
       "Hash": "7b0990e5cb568ab6c25ca93b76ad883d",
-      "Size": 1246
+      "Size": 1246,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/leftarrowclicked.png",
       "Hash": "9178ed0450f1c2610ac3a84277cd41e0",
-      "Size": 788
+      "Size": 788,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/leftarrowhover.png",
       "Hash": "c6e3641d446d22c7585c5a724b01a33d",
-      "Size": 764
+      "Size": 764,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/leftarrownormal.png",
       "Hash": "9178ed0450f1c2610ac3a84277cd41e0",
-      "Size": 788
+      "Size": 788,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/login_window.png",
       "Hash": "d04d5196c47f64c2fc635134a6bb9d26",
-      "Size": 1694
+      "Size": 1694,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/logo.png",
       "Hash": "1fbe7b78ff9b6f217da22ac7f6b9bde9",
-      "Size": 25579
+      "Size": 25579,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu.png",
       "Hash": "0278be9a462d8ea4b0c5af2213ed1b1f",
-      "Size": 1900
+      "Size": 1900,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_credits.png",
       "Hash": "5c157fb0a3bd4c8f7812f1d2f0d1e041",
-      "Size": 4902
+      "Size": 4902,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_credits_clicked.png",
       "Hash": "68db32f746638c2e4dd010fc38880bd8",
-      "Size": 6595
+      "Size": 6595,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_credits_disabled.png",
       "Hash": "6db4dc39b5f27b995e5b51d27dd5c4c0",
-      "Size": 4924
+      "Size": 4924,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_credits_hovered.png",
       "Hash": "09ada6f9f1c7b0373fd98343c82af9a8",
-      "Size": 6875
+      "Size": 6875,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_exit.png",
       "Hash": "def0d4e0d8e027b563002672f8b878e4",
-      "Size": 4353
+      "Size": 4353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_exit_clicked.png",
       "Hash": "b7c23d44ad93d93690889bca9fed33e3",
-      "Size": 5937
+      "Size": 5937,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_exit_disabled.png",
       "Hash": "9a1d54c6892e40e1321ce1052a82dc47",
-      "Size": 4329
+      "Size": 4329,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_exit_hovered.png",
       "Hash": "4a7d7ca339a449332c9612d0abd7f6c6",
-      "Size": 6177
+      "Size": 6177,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_login.png",
       "Hash": "74309c705becf205d9709dd972ab8e66",
-      "Size": 4553
+      "Size": 4553,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_login_clicked.png",
       "Hash": "c691887e0dd077f40b01da144b2ec5e8",
-      "Size": 6321
+      "Size": 6321,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_login_disabled.png",
       "Hash": "1f528931dcb8dd27fe0004d8cf561507",
-      "Size": 4589
+      "Size": 4589,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_login_hovered.png",
       "Hash": "396b289177704967010572b7e9269ecd",
-      "Size": 6586
+      "Size": 6586,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_settings.png",
       "Hash": "1d0415c7654cc921d6ac5ff1e452b1cb",
-      "Size": 6324
+      "Size": 6324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_settings_clicked.png",
       "Hash": "cf7ae93e32404d9ac3f5e90304347d7e",
-      "Size": 9030
+      "Size": 9030,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_settings_disabled.png",
       "Hash": "7b9777921bc84fd2295c696c607ffb28",
-      "Size": 6313
+      "Size": 6313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_settings_hovered.png",
       "Hash": "03c37001d5d8ec61c8006dd7dc8c6b85",
-      "Size": 9315
+      "Size": 9315,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_signup.png",
       "Hash": "bbc344aa106be99fefa77464f0c36927",
-      "Size": 6054
+      "Size": 6054,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_signup_clicked.png",
       "Hash": "cfc7630af781525516c1a46995bac5dc",
-      "Size": 8633
+      "Size": 8633,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_signup_disabled.png",
       "Hash": "572f678bd69968abcaddec1be136a9e0",
-      "Size": 6105
+      "Size": 6105,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/mainmenu_signup_hovered.png",
       "Hash": "e5443172f15e4776fa9edd00bcbf3263",
-      "Size": 8958
+      "Size": 8958,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/manabar.png",
       "Hash": "b22a3407aca6ab4dc0d7f1cd6165fb9d",
-      "Size": 1322
+      "Size": 1322,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/menuicon.png",
       "Hash": "d77170289f99f4d95a794505dbc8b94e",
-      "Size": 404
+      "Size": 404,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/menuitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/options_dropdown.png",
       "Hash": "583d7001e3734bf973e6fa48651b57fa",
-      "Size": 510
+      "Size": 510,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/options_horizontal.png",
       "Hash": "0278be9a462d8ea4b0c5af2213ed1b1f",
-      "Size": 1900
+      "Size": 1900,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/party.png",
       "Hash": "303ff63e5e27ddcf5f0b3a45153cf111",
-      "Size": 1989
+      "Size": 1989,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/partyicon.png",
       "Hash": "5278d1a0a3ad13350a7240ac21690d94",
-      "Size": 675
+      "Size": 675,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/quantity.png",
       "Hash": "b281544972311af02b6ca88fc34477c1",
-      "Size": 166
+      "Size": 166,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/questoffer.png",
       "Hash": "a2dcbc7e0615f37b1711519fc878f97a",
-      "Size": 2724
+      "Size": 2724,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/quests.png",
       "Hash": "4e62a5060d4672d313a5dd6bae951052",
-      "Size": 1912
+      "Size": 1912,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/questsicon.png",
       "Hash": "bdcfef8b2db3b308f2224db80f58d8bd",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/registration_window.png",
       "Hash": "58a9ea90569eda1063e9c4b65f0838e7",
-      "Size": 1525
+      "Size": 1525,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/resetpass_window.png",
       "Hash": "d04d5196c47f64c2fc635134a6bb9d26",
-      "Size": 1694
+      "Size": 1694,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/rightarrowclicked.png",
       "Hash": "e2663999ca13dd946ffc8db01eb082af",
-      "Size": 765
+      "Size": 765,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/rightarrowhover.png",
       "Hash": "385aac308dfbc61bb5557c05866c6468",
-      "Size": 766
+      "Size": 766,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/rightarrownormal.png",
       "Hash": "e2663999ca13dd946ffc8db01eb082af",
-      "Size": 765
+      "Size": 765,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/scrollbarbg.png",
       "Hash": "c42b56fd58a2464843186ec692c367da",
-      "Size": 163
+      "Size": 163,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/scrollbarclicked.png",
       "Hash": "4ae047c1ef3ee816b8daa20568656bae",
-      "Size": 163
+      "Size": 163,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/scrollbarhover.png",
       "Hash": "ed5fbd6eea4189589a3f0ff332f2c0de",
-      "Size": 163
+      "Size": 163,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/scrollbarnormal.png",
       "Hash": "fc63582153858975bf28ec753c72478d",
-      "Size": 163
+      "Size": 163,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/selectchar_window.png",
       "Hash": "58a9ea90569eda1063e9c4b65f0838e7",
-      "Size": 1525
+      "Size": 1525,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/shieldbar.png",
       "Hash": "c747b7593fdb1c248f0b8b8286763ff9",
-      "Size": 644
+      "Size": 644,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/shop.png",
       "Hash": "7d07460b697e7cf9a82a54bfb85f6ec2",
-      "Size": 2663
+      "Size": 2663,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/shopitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/smallbutton.png",
       "Hash": "dda0f7d86723f24446765d004da01cc7",
-      "Size": 1150
+      "Size": 1150,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/smallbutton_clicked.png",
       "Hash": "a7b8c3970a344fea5022bfae1570d064",
-      "Size": 1142
+      "Size": 1142,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/smallbutton_disabled.png",
       "Hash": "5125ccdf56f5cfe947264ec4804db2ab",
-      "Size": 1142
+      "Size": 1142,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/smallbutton_hovered.png",
       "Hash": "98eb3b335bfa15267fe93a8e73efeedc",
-      "Size": 1178
+      "Size": 1178,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/spelldesc.png",
       "Hash": "358bca09f3dc2e174b3341ae4420c24e",
-      "Size": 953
+      "Size": 953,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/spelldescexpanded.png",
       "Hash": "7b0990e5cb568ab6c25ca93b76ad883d",
-      "Size": 1246
+      "Size": 1246,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/spellicon.png",
       "Hash": "90c459d6e3d43fdcfc2c151485695ddf",
-      "Size": 434
+      "Size": 434,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/spellitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/spells.png",
       "Hash": "770c371a35eeb136df1b1e5d52986b49",
-      "Size": 1744
+      "Size": 1744,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/status.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/statusbg.png",
       "Hash": "3807850fa0904f9a46c2fc90d3719e6a",
-      "Size": 581
+      "Size": 581,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/tooltip.png",
       "Hash": "1e8c5e759e245b4ee39b7b9eff2e8be2",
-      "Size": 200
+      "Size": 200,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/trade.png",
       "Hash": "3db9e5956b457b00e419631b054bc227",
-      "Size": 2708
+      "Size": 2708,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/tradeitem.png",
       "Hash": "bbc2f229d2fc0c8fffddadee84fe4df5",
-      "Size": 306
+      "Size": 306,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/uparrowclicked.png",
       "Hash": "d871fbdddd212b4c642c7292b3131141",
-      "Size": 254
+      "Size": 254,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/uparrowhover.png",
       "Hash": "a723df66514334c2002b8292870fe342",
-      "Size": 275
+      "Size": 275,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/uparrownormal.png",
       "Hash": "2ee309226834cb8e1d6382e2c40cabc7",
-      "Size": 254
+      "Size": 254,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/uparrownormal_medium.png",
       "Hash": "8e01e03320f26b6fcc6de7aea3a5b916",
-      "Size": 282
+      "Size": 282,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/volume_bar.png",
       "Hash": "0e8d162f110098ae45f71fd88a92b16c",
-      "Size": 549
+      "Size": 549,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/volume_slider.png",
       "Hash": "29f766ac772dc1896e3aa0caa6a35b7b",
-      "Size": 260
+      "Size": 260,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/volume_slider_hovered.png",
       "Hash": "be262df50fe2670d6f154f94eb057421",
-      "Size": 290
+      "Size": 290,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/gui/layouts/game/BagItem.json",
@@ -1159,8 +1358,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "ddc785529460a420f5a36fe9d6529e02",
-      "Size": 30131
+      "Hash": "9d4970f6c5181481d548c44c1c432dc0",
+      "Size": 30130
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -1194,7 +1393,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "c796eff976cd4958d861728e984ccd04",
+      "Hash": "81f44d65f80e0b38d93071ea18f8c5fc",
       "Size": 8286
     },
     {
@@ -1219,12 +1418,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "ac9eeabbb35a23ab54d0774d411cd9ef",
-      "Size": 19830
+      "Hash": "34b14aa9439b62d33eb9f164107e6205",
+      "Size": 19829
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "2d5a443d2afb43f07c9e0ff728008a95",
+      "Hash": "2173c38815021440b9af4263ed513bc7",
       "Size": 59354
     },
     {
@@ -1239,8 +1438,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "30736bd29e761673b4c6015d85aaf63e",
-      "Size": 14734
+      "Hash": "c5c954b1599f88a232c8b5a1a9f0b384",
+      "Size": 14733
     },
     {
       "Path": "resources/gui/layouts/game/ItemDescWindow.json",
@@ -1254,18 +1453,18 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "9e12d5a5226d307c4704083c0bac16bc",
+      "Hash": "bb8e5376acd0589422b0aa27aa4ea40e",
       "Size": 15741
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "8c9f26055ac55a60c91887366e000955",
+      "Hash": "2ddd16fbbca634924bf6d4eee3fd3b0f",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "bd9b20118829cd2728014faf2b988e11",
-      "Size": 44795
+      "Hash": "ebb094dabcd5cefd266c308b1423d23c",
+      "Size": 44794
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
@@ -1279,13 +1478,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "b95ef0648baf16bb9f9768cf2ef94a82",
+      "Hash": "f96ef7ee5f6259f64f479006158abd5a",
       "Size": 19745
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "e2d2478fbe6a8bdc862ca5034d8eb1a7",
-      "Size": 31516
+      "Hash": "48de36409f98db1c5be4785b218ab067",
+      "Size": 31515
     },
     {
       "Path": "resources/gui/layouts/game/ShopItem.json",
@@ -1314,13 +1513,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "feb7be2490cf7bd170a3cb82c2a244c4",
-      "Size": 14716
+      "Hash": "eb5792f1ddee3f9adf233e70b7eb42d2",
+      "Size": 14715
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "4611fcc3d1199c9c9f297fa7b3287e0c",
-      "Size": 24309
+      "Hash": "eaae8814f42dbc5cc6367ef30d058b4d",
+      "Size": 24310
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
@@ -1344,57 +1543,57 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "7951037a1947d8de63fabe9f027d0589",
+      "Hash": "521f60f691088acffce60a3ad945ae31",
       "Size": 38170
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "bdf7e5af6d321ee065b96aeff28bdbe2",
+      "Hash": "b71249451bf9f3822295529a9f886f5f",
       "Size": 12341
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "1081f8c7fa7ebb0aa1fd7f393f1ffa19",
+      "Hash": "78e6c364bc30d09546420fdd59417f26",
       "Size": 13816
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "145dd9b6ffb0a318dfd8e43d2223ee58",
+      "Hash": "ac9430ce8d73596c26ad0c3335a49591",
       "Size": 8194
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "525e5e2a0c068d6edb40008f405e5e64",
+      "Hash": "2e9153f3b0026ceb331277568de07667",
       "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "8a4207c33e943851a7fca529f8836c0d",
+      "Hash": "82b8219c5e250e9234d9161f475e2abf",
       "Size": 14497
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "5a9278edf15d19d7547e045e67247a61",
+      "Hash": "1013f980efe9c3c09a9a334712d95e2c",
       "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "fdc05f5f648194e32fcee1a6290a82bc",
+      "Hash": "7c5b66e5b6817f4d78a3872e6789f00d",
       "Size": 9188
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "8c9f26055ac55a60c91887366e000955",
+      "Hash": "2ddd16fbbca634924bf6d4eee3fd3b0f",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "2dd00e723c14b943b26084a463742393",
+      "Hash": "66dc9a45945fd8871cd9dfd6a388ceca",
       "Size": 16384
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "97fb73bc60e96f120a90a606449b9819",
+      "Hash": "dce95f575e299217eddff14fc8c829a9",
       "Size": 13329
     },
     {
@@ -1405,1552 +1604,1862 @@
     {
       "Path": "resources/items/Arrow_01.png",
       "Hash": "0c62d75dc7526b63ad70d4811f0d8807",
-      "Size": 309
+      "Size": 309,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_01.png",
       "Hash": "546bc771018c71dc8a3dff174d3ccbcc",
-      "Size": 341
+      "Size": 341,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_02.png",
       "Hash": "17b2b36337ad11ef8bdfbc49c08d7ac5",
-      "Size": 322
+      "Size": 322,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_03.png",
       "Hash": "187284ae646253ca067f14b8e143841a",
-      "Size": 380
+      "Size": 380,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_04.png",
       "Hash": "2bfa6261bfa1d1d27cb83c23f4439fa5",
-      "Size": 390
+      "Size": 390,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_05.png",
       "Hash": "997d4fd6474b973493362efcb9c61ad6",
-      "Size": 376
+      "Size": 376,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_06.png",
       "Hash": "d525e98d999dfe4483f81d8c45d00111",
-      "Size": 348
+      "Size": 348,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_07.png",
       "Hash": "37ca9c80d9b78322cee7d01eba949475",
-      "Size": 337
+      "Size": 337,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_08.png",
       "Hash": "9024fc5b1a187932a954deaa8b6f8799",
-      "Size": 350
+      "Size": 350,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_09.png",
       "Hash": "b8fe320c4f50ab6b09529685b4e2b227",
-      "Size": 338
+      "Size": 338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Axe_10.png",
       "Hash": "a4d71c2df249048f54f99cd6fd1f6d58",
-      "Size": 418
+      "Size": 418,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bag_01.png",
       "Hash": "edb7afec4819a2be693b6bdf82eaef94",
-      "Size": 359
+      "Size": 359,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bag_02.png",
       "Hash": "1e66c073f6ffc9bb24f95aef31bed936",
-      "Size": 392
+      "Size": 392,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bones_01.png",
       "Hash": "136a9e81496b62f59433519ce18b3855",
-      "Size": 369
+      "Size": 369,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_01.png",
       "Hash": "bdc51dc6d23b60864398805b850759b9",
-      "Size": 422
+      "Size": 422,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_02.png",
       "Hash": "7fd0e2a3eff29a933cfc56ef8af2ed54",
-      "Size": 421
+      "Size": 421,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_03.png",
       "Hash": "9e4cb230fbd4513812084c14596b89bd",
-      "Size": 421
+      "Size": 421,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_04.png",
       "Hash": "aafc1174699ae9915ffd8e3a3bcdd5a0",
-      "Size": 421
+      "Size": 421,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_05.png",
       "Hash": "e466cd5a182b3373719488693d1c25ab",
-      "Size": 411
+      "Size": 411,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_06.png",
       "Hash": "90aac545f1a45e35b3cf34af5e20a864",
-      "Size": 416
+      "Size": 416,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_07.png",
       "Hash": "191d0b5f1521afb78cd8789b31910672",
-      "Size": 423
+      "Size": 423,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_08.png",
       "Hash": "e0ef26944251dc40c1059707f520e7f9",
-      "Size": 407
+      "Size": 407,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_09.png",
       "Hash": "d7e688c209462a3d18a51da57be1f817",
-      "Size": 411
+      "Size": 411,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_10.png",
       "Hash": "ad6e81e653605a66aede96ebecb2ac90",
-      "Size": 439
+      "Size": 439,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_11.png",
       "Hash": "2f8218fe6bf8803745569a324af6a547",
-      "Size": 432
+      "Size": 432,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_12.png",
       "Hash": "501d474a2417720cfe170bbab34288bb",
-      "Size": 430
+      "Size": 430,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_13.png",
       "Hash": "ad3c427fa8e9d6094681b9ffb7005174",
-      "Size": 324
+      "Size": 324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Book_14.png",
       "Hash": "8653aad6e2d4148a6b75d4eecb7f1efd",
-      "Size": 349
+      "Size": 349,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_01.png",
       "Hash": "76573a8cfe3a188d42a1b889a6e8874d",
-      "Size": 276
+      "Size": 276,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_02.png",
       "Hash": "61779f02e84ccbf759a487d394b280cf",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_03.png",
       "Hash": "66a518bf9303bdf8174eac56232f4b79",
-      "Size": 326
+      "Size": 326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_04.png",
       "Hash": "27df708f5de611e49d51b36c2ee63e5b",
-      "Size": 314
+      "Size": 314,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_05.png",
       "Hash": "f90aafba4dadca654e06d1744b1d91a7",
-      "Size": 344
+      "Size": 344,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_06.png",
       "Hash": "f3663dcee1e1edcaf655a8f6c44a396d",
-      "Size": 409
+      "Size": 409,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_07.png",
       "Hash": "c8c976b6e1cc88f20565ba2e1e824e97",
-      "Size": 314
+      "Size": 314,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_08.png",
       "Hash": "4e8fc8c3908b0f3dfa97af75a6196974",
-      "Size": 346
+      "Size": 346,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_09.png",
       "Hash": "063fbb7be8d892044d2342254a85626d",
-      "Size": 382
+      "Size": 382,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_10.png",
       "Hash": "5c984da0c8b04e6df5d1d272ac174c05",
-      "Size": 382
+      "Size": 382,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_11.png",
       "Hash": "3a36be8a93d06c4c19d7650f8e18186d",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_12.png",
       "Hash": "02ab4fb4d82b0ffc1cb539dab1f79af5",
-      "Size": 376
+      "Size": 376,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Boots_13.png",
       "Hash": "84f0e1017810de97b396cc3a5cef2168",
-      "Size": 361
+      "Size": 361,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_01.png",
       "Hash": "83675fc491f76b8227a6262518ebb743",
-      "Size": 324
+      "Size": 324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_02.png",
       "Hash": "2927d236adb72b63c37b43091b295804",
-      "Size": 366
+      "Size": 366,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_03.png",
       "Hash": "addd61dd31db09ad5e6ed9ab9e807b6f",
-      "Size": 351
+      "Size": 351,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_04.png",
       "Hash": "48e59973aca7fc894a5be4c62a1ee732",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_05.png",
       "Hash": "de565d51ff17a6a3b23c9f4792079248",
-      "Size": 349
+      "Size": 349,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bow_06.png",
       "Hash": "9bf41e9a33e46b9c442b61632a37175c",
-      "Size": 357
+      "Size": 357,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bracelet_01.png",
       "Hash": "e91d972e4c5c6d4221a1aea9e5d62f70",
-      "Size": 287
+      "Size": 287,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bracelet_02.png",
       "Hash": "44beb2fc6e49889dcea3e83166604c8f",
-      "Size": 304
+      "Size": 304,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bracelet_03.png",
       "Hash": "20e94eb32442e4e4fa92df462b879097",
-      "Size": 337
+      "Size": 337,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Bracelet_04.png",
       "Hash": "dd8535405a5e60284ed5d8ef5df15a96",
-      "Size": 328
+      "Size": 328,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_01.png",
       "Hash": "b26b8d2189542bf5b8eac7aa385f8976",
-      "Size": 397
+      "Size": 397,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_02.png",
       "Hash": "96af85247e7eb919e368592ba066a46f",
-      "Size": 440
+      "Size": 440,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_03.png",
       "Hash": "abd3c288c0fc73e7d1f55070a852f7a1",
-      "Size": 365
+      "Size": 365,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_04.png",
       "Hash": "235cf8f2d0c6702fe6914b912343bf73",
-      "Size": 425
+      "Size": 425,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_05.png",
       "Hash": "451b725102d41fbbc02ffbee069386b7",
-      "Size": 432
+      "Size": 432,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_06.png",
       "Hash": "686be1c1c1b2816b46376d9e4950d87f",
-      "Size": 416
+      "Size": 416,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_07.png",
       "Hash": "795c89a25763a75017dff0152f4d706a",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_08.png",
       "Hash": "04f3a4ce9ee7370243c30a265b41b7e5",
-      "Size": 406
+      "Size": 406,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Breastplate_09.png",
       "Hash": "2276e6ca0ec3c2d5842b69ac03124508",
-      "Size": 397
+      "Size": 397,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Cloak_01.png",
       "Hash": "be9de2ecdde01cb0865c01309496bbb4",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Coins_01.png",
       "Hash": "2a1fbf452f491452e7d6b6c25a337124",
-      "Size": 404
+      "Size": 404,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Crown_01.png",
       "Hash": "602ec8822d215a778712b40ce4821970",
-      "Size": 347
+      "Size": 347,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Crown_02.png",
       "Hash": "a81d1f44a554cba9dc0ef953e63f3e63",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Crown_03.png",
       "Hash": "7ce3c4b91197f0c5acbd80d03d5547ca",
-      "Size": 365
+      "Size": 365,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Dices_01.png",
       "Hash": "d9cdf4b575ed5640bee9689e77a9b15b",
-      "Size": 388
+      "Size": 388,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Flower_01.png",
       "Hash": "a1622f04f15cfc9769c5edf74f6c95b4",
-      "Size": 372
+      "Size": 372,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Flower_02.png",
       "Hash": "52737f64498b40d4c91a32c5ce5a4791",
-      "Size": 388
+      "Size": 388,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Flower_03.png",
       "Hash": "336ed709143dcafdb688d3489fa13848",
-      "Size": 359
+      "Size": 359,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Flower_04.png",
       "Hash": "a90a9a6655ada04136d9ffab41d09ade",
-      "Size": 356
+      "Size": 356,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Flower_05.png",
       "Hash": "2f593fcbfe99338f45b558870eb2ba79",
-      "Size": 416
+      "Size": 416,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_01.png",
       "Hash": "9f9e68c4ce295b89adc5f4d85bd6a1ca",
-      "Size": 411
+      "Size": 411,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_02.png",
       "Hash": "60f82a091f20b21a32520677a6a16d7e",
-      "Size": 340
+      "Size": 340,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_03.png",
       "Hash": "2beb4e78d658172b6c698d8b3725eb63",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_04.png",
       "Hash": "f2f84c3b129db8118fc6badfcecf3b7f",
-      "Size": 391
+      "Size": 391,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_05.png",
       "Hash": "6a83f35f9343e774923ccb031764f732",
-      "Size": 413
+      "Size": 413,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_06.png",
       "Hash": "018d8a059e5c69038a38006fa637d0b0",
-      "Size": 312
+      "Size": 312,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_07.png",
       "Hash": "923e2af8b9ea2d6fd72a51fa316df918",
-      "Size": 373
+      "Size": 373,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_08.png",
       "Hash": "dcfa88a608a8c7a4a830248b07414297",
-      "Size": 345
+      "Size": 345,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_09.png",
       "Hash": "5ec8a7e31e011ffb10f378cf5c1046d0",
-      "Size": 342
+      "Size": 342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_10.png",
       "Hash": "2d972d5dc2572636265729a3760e0500",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_11.png",
       "Hash": "dd62bae3e8199b252b853b063ce0e759",
-      "Size": 297
+      "Size": 297,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_12.png",
       "Hash": "a0511a93c13dd3c164e1b4a4893b245e",
-      "Size": 377
+      "Size": 377,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Food_13.png",
       "Hash": "5fb918a5e20eddb285dd1ce8ed3b4441",
-      "Size": 394
+      "Size": 394,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Gloves_01.png",
       "Hash": "0e27b2cb17e8134f9f3f686082d9a54b",
-      "Size": 366
+      "Size": 366,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Gloves_02.png",
       "Hash": "9938a2f5df8c59a7c1d31a134a67dfce",
-      "Size": 377
+      "Size": 377,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Gold_01.png",
       "Hash": "3f332b0a95dd4a05aab345ba3fabc25f",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Gold_02.png",
       "Hash": "9efaba324d252ae4fe77283ffe403634",
-      "Size": 291
+      "Size": 291,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Hammer_01.png",
       "Hash": "97623726eba319fa1ff9d0d6c6d7ceea",
-      "Size": 393
+      "Size": 393,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Hammer_02.png",
       "Hash": "77d1071274ffca4c866baa06573cc25a",
-      "Size": 432
+      "Size": 432,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Hammer_03.png",
       "Hash": "c7fb56c883c144d94f9fb59f6a964983",
-      "Size": 404
+      "Size": 404,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Hammer_04.png",
       "Hash": "3d54b03f2df62e64f7b3c6ad9103e58e",
-      "Size": 294
+      "Size": 294,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_01.png",
       "Hash": "6e94d6996a99383a30a5cb43cc339b74",
-      "Size": 367
+      "Size": 367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_02.png",
       "Hash": "d3bf9ca44bf1d79c2ae2b86e56fa43df",
-      "Size": 346
+      "Size": 346,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_03.png",
       "Hash": "97564a40ab1e03a7ee82cb8662abb681",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_04.png",
       "Hash": "310c4ec15500908399e0878e67f2a734",
-      "Size": 380
+      "Size": 380,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_05.png",
       "Hash": "9b258664b5a32554c8358ee5c9c96f29",
-      "Size": 408
+      "Size": 408,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_06.png",
       "Hash": "9c4520820be2ced5b3597fd286c93ed3",
-      "Size": 453
+      "Size": 453,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_07.png",
       "Hash": "2a24ba6c88eda006e74ea4d70fb307a7",
-      "Size": 424
+      "Size": 424,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_08.png",
       "Hash": "3739e376454fffa915119d7ae6437ba0",
-      "Size": 402
+      "Size": 402,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_09.png",
       "Hash": "5f012e73a29265494fffe1d7df9fa1a2",
-      "Size": 349
+      "Size": 349,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_10.png",
       "Hash": "95678fca01d711698b6a6ddc9a17e149",
-      "Size": 452
+      "Size": 452,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_11.png",
       "Hash": "524c17ab0807d0cafcce9365abb1dfd8",
-      "Size": 441
+      "Size": 441,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_12.png",
       "Hash": "282d0fcfcc51f819a305664f73e06df7",
-      "Size": 468
+      "Size": 468,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_13.png",
       "Hash": "cce399bbf5186ba9a7afa62176624c5d",
-      "Size": 294
+      "Size": 294,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_14.png",
       "Hash": "0712b7b23b555546983ed35899019d11",
-      "Size": 322
+      "Size": 322,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_15.png",
       "Hash": "d0068dfc57005c4b5710344e0e5f2de3",
-      "Size": 378
+      "Size": 378,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_16.png",
       "Hash": "75dc14a0c35ea977a0ac0c9f42475c7f",
-      "Size": 334
+      "Size": 334,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_17.png",
       "Hash": "b929b02529d450d4473f24c69c5dccfc",
-      "Size": 340
+      "Size": 340,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_18.png",
       "Hash": "9fe7cb26d29956ce93754c2c69c7fe68",
-      "Size": 360
+      "Size": 360,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Helmet_19.png",
       "Hash": "304807dc390f996d2b1d41bb6c87b332",
-      "Size": 431
+      "Size": 431,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_01.png",
       "Hash": "bd1a66dd547809600fe3fa0674f6e9ca",
-      "Size": 330
+      "Size": 330,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_02.png",
       "Hash": "bd1a66dd547809600fe3fa0674f6e9ca",
-      "Size": 330
+      "Size": 330,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_03.png",
       "Hash": "9a457cdf4609e9e7e1026deaaffa7fe1",
-      "Size": 333
+      "Size": 333,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_04.png",
       "Hash": "ed52fbd18fe4cbdcdefa2e36f214e2bf",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_05.png",
       "Hash": "742b4361f3853521a3fbb8e5e50fb3cc",
-      "Size": 327
+      "Size": 327,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_06.png",
       "Hash": "40430960d4a37011d30ff17ebbcb32ea",
-      "Size": 319
+      "Size": 319,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ingot_07.png",
       "Hash": "58d99f924d458a1e2cc0f45a3066919f",
-      "Size": 321
+      "Size": 321,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_01.png",
       "Hash": "4b700258e36f7ec06b2b5918107df250",
-      "Size": 365
+      "Size": 365,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_02.png",
       "Hash": "7d43327b44b073124e565f6470be1217",
-      "Size": 335
+      "Size": 335,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_03.png",
       "Hash": "d2f63828848889830a7905975b4e0ada",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_04.png",
       "Hash": "54ad62738a595cf6f9f44928701b455c",
-      "Size": 340
+      "Size": 340,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_05.png",
       "Hash": "71b13a9284869fa6681166afaf7e972a",
-      "Size": 355
+      "Size": 355,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_06.png",
       "Hash": "7b0fa1303fcb4209d6ff26df40e36d13",
-      "Size": 341
+      "Size": 341,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_07.png",
       "Hash": "aa69801fea2813ff58c885cbe447ae5c",
-      "Size": 350
+      "Size": 350,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_08.png",
       "Hash": "802168bb5af892da4dbca50e445ed4ed",
-      "Size": 320
+      "Size": 320,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_09.png",
       "Hash": "3e9c85588f5d847d8cc2ddf5129fe085",
-      "Size": 294
+      "Size": 294,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_10.png",
       "Hash": "111a69e08fc9b8f4d9dc62b217a94f65",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_11.png",
       "Hash": "aaf97af9ce0f4d0f2b3a8d8d53ccfc1a",
-      "Size": 326
+      "Size": 326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Jewel_12.png",
       "Hash": "9689d0c6d68c7ae6cb798337948b21be",
-      "Size": 313
+      "Size": 313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Key_01.png",
       "Hash": "4eb8773f16c8f0caeac9d3ac16a2d145",
-      "Size": 307
+      "Size": 307,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Key_02.png",
       "Hash": "84685fba7f02510b26b519aa699767e3",
-      "Size": 317
+      "Size": 317,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Key_03.png",
       "Hash": "4e8421e0e509039de31ca0d253589e1a",
-      "Size": 309
+      "Size": 309,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Key_04.png",
       "Hash": "727cc602105f969ff5c025c4f68bb8ad",
-      "Size": 268
+      "Size": 268,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Knife_01.png",
       "Hash": "12016cb4d50b527f8669602715ff42f6",
-      "Size": 259
+      "Size": 259,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Knife_02.png",
       "Hash": "c5280976e408075d72ad5fed1fb91c45",
-      "Size": 280
+      "Size": 280,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Knife_03.png",
       "Hash": "a0a68b9ff9f81742c225807428c3a15b",
-      "Size": 256
+      "Size": 256,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Knife_04.png",
       "Hash": "c33515e6c3a6189598083928c7054bb0",
-      "Size": 259
+      "Size": 259,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Knife_05.png",
       "Hash": "15f625cf6bd55e14210b9a52b771ce15",
-      "Size": 326
+      "Size": 326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_01.png",
       "Hash": "e1c5a33bd66af1fe375b550f8fa9b17f",
-      "Size": 313
+      "Size": 313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_02.png",
       "Hash": "a2df7bd8aad74fe39c681a787731b808",
-      "Size": 367
+      "Size": 367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_03.png",
       "Hash": "c234cec65bfb18e9f1373bfbfa288245",
-      "Size": 367
+      "Size": 367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_04.png",
       "Hash": "f6ee8eeb22654775ab515d8fbe49142c",
-      "Size": 307
+      "Size": 307,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_05.png",
       "Hash": "ac70c05451395b8400a3d8a4af5c5a8f",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Leaf_06.png",
       "Hash": "e6cd7fef6a889f2d089c7d006e8e4ad5",
-      "Size": 418
+      "Size": 418,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Mace_01.png",
       "Hash": "5071ec8270bb2fbae09bc7b2e6661266",
-      "Size": 381
+      "Size": 381,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Mace_02.png",
       "Hash": "ea1dcded0ba976c562dc13aa4f2e8736",
-      "Size": 347
+      "Size": 347,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_01.png",
       "Hash": "7bab551bd8b76d3c0da9a684f4329121",
-      "Size": 243
+      "Size": 243,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_02.png",
       "Hash": "f9eb0da5fc5667891e02de4cc5e0067e",
-      "Size": 239
+      "Size": 239,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_03.png",
       "Hash": "ef8cff5bfd92a16510d3f35ffc2a4e77",
-      "Size": 242
+      "Size": 242,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_04.png",
       "Hash": "99e23cd2ee3d7213aa8a5a44f8061652",
-      "Size": 255
+      "Size": 255,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_05.png",
       "Hash": "f35d165f2e6d734b8747a3d7c2161f41",
-      "Size": 253
+      "Size": 253,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_06.png",
       "Hash": "325dbf6e9abde96f167ed82a81d5792e",
-      "Size": 379
+      "Size": 379,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_07.png",
       "Hash": "919636b4bb08b4fe1f467eb9f6e79873",
-      "Size": 373
+      "Size": 373,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_08.png",
       "Hash": "7d5e29bec3837f1ffb6a12fe08da163c",
-      "Size": 288
+      "Size": 288,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_09.png",
       "Hash": "d272c182a4c23709ea06b707ebaf7c46",
-      "Size": 300
+      "Size": 300,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_10.png",
       "Hash": "f8d974198972ac077472095adc867a4f",
-      "Size": 324
+      "Size": 324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_11.png",
       "Hash": "004d7ab39aebd765c571d6a43b597ef4",
-      "Size": 313
+      "Size": 313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Misc_12.png",
       "Hash": "0677633964cd417482bda36ed28a47e1",
-      "Size": 380
+      "Size": 380,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Mushroom_01.png",
       "Hash": "882b561df568f8fd3eafd7c1991d34e8",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Mushroom_02.png",
       "Hash": "847502c7824ff14caffa0d0ae86fd3d4",
-      "Size": 360
+      "Size": 360,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Mushroom_03.png",
       "Hash": "2f270eb9fc5a94cb668bbb86e9965785",
-      "Size": 309
+      "Size": 309,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_01.png",
       "Hash": "dedcca7768c16e173238082e92b9f652",
-      "Size": 355
+      "Size": 355,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_02.png",
       "Hash": "2e66addd5a88ebbd6e142537f4fc5604",
-      "Size": 355
+      "Size": 355,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_03.png",
       "Hash": "5a4ec575beb5d1cc6b9a253ed54522c9",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_04.png",
       "Hash": "554a6e977b31a731f6a966b4af527960",
-      "Size": 348
+      "Size": 348,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_05.png",
       "Hash": "d531b2706378eb3240751987863a1d35",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_06.png",
       "Hash": "f7dc4466dbad2fcf395773b85915f75f",
-      "Size": 343
+      "Size": 343,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_07.png",
       "Hash": "e816eb098515f0283d60d937c8be72d3",
-      "Size": 372
+      "Size": 372,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_08.png",
       "Hash": "5ef9199ce7d70d7a5a742a4c4dfdcc27",
-      "Size": 369
+      "Size": 369,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_09.png",
       "Hash": "4cb30a7f249ea7f670d3e21b52dd5e25",
-      "Size": 372
+      "Size": 372,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_10.png",
       "Hash": "dc1912887c26d822652dd163e8d1b548",
-      "Size": 365
+      "Size": 365,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_11.png",
       "Hash": "01122dfac14b6910c3bbb268ef55324f",
-      "Size": 368
+      "Size": 368,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_12.png",
       "Hash": "6e7a370e2d6c0cb058e41f2260525197",
-      "Size": 362
+      "Size": 362,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Necklace_13.png",
       "Hash": "60cd63052ad17445c4321d01fc4528a9",
-      "Size": 339
+      "Size": 339,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_01.png",
       "Hash": "b5087b5601bfb69ee4d19b9f43cf2e96",
-      "Size": 316
+      "Size": 316,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_02.png",
       "Hash": "3b01a0616e3ce78818972d6e914dc77a",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_03.png",
       "Hash": "4d323e6de31c5cbe35a22a67ef4fd85b",
-      "Size": 338
+      "Size": 338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_04.png",
       "Hash": "84a24271c21d748d2447d9ebb4a111a3",
-      "Size": 336
+      "Size": 336,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_05.png",
       "Hash": "04f2f6e10dedcbea135832b5dae66685",
-      "Size": 336
+      "Size": 336,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_06.png",
       "Hash": "28b50f60c0f5c03f16e9504c64c29c02",
-      "Size": 324
+      "Size": 324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ore_07.png",
       "Hash": "c8909ca432e2fcdf95546f884746a8b5",
-      "Size": 317
+      "Size": 317,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Paper_01.png",
       "Hash": "4fe7846ee1239a07347a3ba9a63d6e7f",
-      "Size": 360
+      "Size": 360,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Paper_02.png",
       "Hash": "01ff56f6324ffba0a313d7d570c8e11f",
-      "Size": 342
+      "Size": 342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Paper_03.png",
       "Hash": "cee45d5c62c52474a454c5861ee41d2b",
-      "Size": 441
+      "Size": 441,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Papyrus_01.png",
       "Hash": "0d6680e0d574f196c02544548e7b5e4d",
-      "Size": 425
+      "Size": 425,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Pickaxe_01.png",
       "Hash": "399502dc5bf72e65707850363e53b3e0",
-      "Size": 384
+      "Size": 384,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_01.png",
       "Hash": "052e249b4f84998ab5cce1de6a16cea5",
-      "Size": 360
+      "Size": 360,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_02.png",
       "Hash": "607ae3489521e81368669c95c9b1b0c5",
-      "Size": 350
+      "Size": 350,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_03.png",
       "Hash": "75e7ca8f03aaa2c6056a3bc1af06208d",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_04.png",
       "Hash": "1c8dcc0fbf19ebfbc33b7ea6b80b1d99",
-      "Size": 344
+      "Size": 344,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_05.png",
       "Hash": "fae6e5533fb1e8b48443575b6b8c5e4b",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_06.png",
       "Hash": "f78018977c1f0cc157db21921f714ab3",
-      "Size": 338
+      "Size": 338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_07.png",
       "Hash": "d0b6b88d6409ba4a193dad40b5f47ba7",
-      "Size": 356
+      "Size": 356,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_08.png",
       "Hash": "d351405a3dcfa589b8ee86cd94d69d2f",
-      "Size": 355
+      "Size": 355,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_09.png",
       "Hash": "b7421a05fdfdd92a83a2c36c021a03ed",
-      "Size": 338
+      "Size": 338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_10.png",
       "Hash": "ad93bcc29a2a8848609096920f9b01ca",
-      "Size": 342
+      "Size": 342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_11.png",
       "Hash": "02845b033b3f188ee458a4f2709d054d",
-      "Size": 333
+      "Size": 333,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_12.png",
       "Hash": "0faec327844c05a0f1893058c920abd8",
-      "Size": 373
+      "Size": 373,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_13.png",
       "Hash": "c2427504100010c55658fc671f267673",
-      "Size": 380
+      "Size": 380,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_14.png",
       "Hash": "e7a86e3265da6faa5a9d2af5b4c2ad10",
-      "Size": 341
+      "Size": 341,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_15.png",
       "Hash": "c24c1d9c97290375a57f7894e60f0e2f",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_16.png",
       "Hash": "3f9a9c1119f45be9dbb6dd6988fd40fd",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_17.png",
       "Hash": "2d39831d3f9eadd818dc4c027331fbe9",
-      "Size": 329
+      "Size": 329,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_18.png",
       "Hash": "af02cc0284ddde25f6d4e20bce466776",
-      "Size": 369
+      "Size": 369,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_19.png",
       "Hash": "c7ec116367c17536027aa259cecc8330",
-      "Size": 323
+      "Size": 323,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_20.png",
       "Hash": "05241b7c7fec3860b5377968bf4e13bf",
-      "Size": 313
+      "Size": 313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_21.png",
       "Hash": "7d8b4d4f8a9b3a1dd94334b14ead4c26",
-      "Size": 344
+      "Size": 344,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Potion_22.png",
       "Hash": "85db39979af90c623415cd1dea655cdd",
-      "Size": 299
+      "Size": 299,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_01.png",
       "Hash": "215f21234670cf4988bbaff8d1e21783",
-      "Size": 337
+      "Size": 337,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_02.png",
       "Hash": "724d3bdeb866d8b8eb446dcd9c3ee05a",
-      "Size": 377
+      "Size": 377,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_03.png",
       "Hash": "9a8d167ab81584073de42fb4577d37c4",
-      "Size": 374
+      "Size": 374,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_04.png",
       "Hash": "7ab95be03ea9dfdc17e23714e7119d40",
-      "Size": 375
+      "Size": 375,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_05.png",
       "Hash": "be0f8f1237a9e024eb8b4ffaa7f8703b",
-      "Size": 366
+      "Size": 366,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_06.png",
       "Hash": "47ff671189eec3555d4591c4478e6b56",
-      "Size": 369
+      "Size": 369,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_07.png",
       "Hash": "ebadfe9369d95e23eeef561276b32409",
-      "Size": 367
+      "Size": 367,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_08.png",
       "Hash": "7189c448879408b9421b7fb72ce1354a",
-      "Size": 354
+      "Size": 354,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_09.png",
       "Hash": "129a67c07a0202216fc5699f13f063b9",
-      "Size": 379
+      "Size": 379,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_10.png",
       "Hash": "3b8c8e14ba998a3825b39516cd9e52e1",
-      "Size": 376
+      "Size": 376,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_11.png",
       "Hash": "b5b6868adf2f88b05e3840c1e548567f",
-      "Size": 375
+      "Size": 375,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_12.png",
       "Hash": "f99e2a74e56f7b6fb623e2d41351a365",
-      "Size": 371
+      "Size": 371,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_13.png",
       "Hash": "942ec8aace064b8a1e70f09d6ae84ee3",
-      "Size": 372
+      "Size": 372,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_14.png",
       "Hash": "5124d74076f0b3936b8a6239e9ed8c74",
-      "Size": 371
+      "Size": 371,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_15.png",
       "Hash": "d59b48de59f91e2f17b591af8e5fb226",
-      "Size": 345
+      "Size": 345,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_16.png",
       "Hash": "764f377669a37c3fd327f3d330f52e60",
-      "Size": 337
+      "Size": 337,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_17.png",
       "Hash": "1df9ec211310322f43731cf7700dd7e4",
-      "Size": 328
+      "Size": 328,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_18.png",
       "Hash": "301ab9cdfad33eaaa71d68d8dee0e52d",
-      "Size": 369
+      "Size": 369,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_19.png",
       "Hash": "b425b7bec59db2c5ff509bbae08dc2b1",
-      "Size": 368
+      "Size": 368,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_20.png",
       "Hash": "edc34255bd890b81ee3278d8579998df",
-      "Size": 393
+      "Size": 393,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_21.png",
       "Hash": "4df7b41bffdcc905601a4ef3ad2cb3bf",
-      "Size": 390
+      "Size": 390,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Ring_22.png",
       "Hash": "3ce1e55381283f8759f584863e2de21a",
-      "Size": 331
+      "Size": 331,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Rock_01.png",
       "Hash": "9d9f9a220224151fcc97244c1c3e95f2",
-      "Size": 324
+      "Size": 324,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Rope_01.png",
       "Hash": "433b3de4dde87201612644717f032776",
-      "Size": 352
+      "Size": 352,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Scythe_01.png",
       "Hash": "1474ac1a8a13035510b280eb88424f70",
-      "Size": 326
+      "Size": 326,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_01.png",
       "Hash": "cba3682539f0049d38129826b660ab64",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_02.png",
       "Hash": "7f8d0e72e6f6e62daf18f3c5d3991a24",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_03.png",
       "Hash": "41b793f68f902dc17bfadd87619235e5",
-      "Size": 407
+      "Size": 407,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_04.png",
       "Hash": "50cf372b9d647d39fb152928a6f58f78",
-      "Size": 423
+      "Size": 423,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_05.png",
       "Hash": "93af85de6b97d46a18e9af458649bba9",
-      "Size": 372
+      "Size": 372,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_06.png",
       "Hash": "fa28bb2ea94bc21aa80eda609d9bb873",
-      "Size": 408
+      "Size": 408,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_07.png",
       "Hash": "bd26bb54fc9eaa3b163bc18ba889175f",
-      "Size": 434
+      "Size": 434,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_08.png",
       "Hash": "d5ac98a8adb040a6e5d930dfa96c49e7",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_09.png",
       "Hash": "1ac9c7864168a379aa70f814b0347df0",
-      "Size": 344
+      "Size": 344,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shield_10.png",
       "Hash": "29e7708187101af776a32cab1d42d5fd",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Shovel_01.png",
       "Hash": "849313ae4461fb414eaf8ee2c17d055e",
-      "Size": 304
+      "Size": 304,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Silver_01.png",
       "Hash": "a50fadaed3a69c743142ec0c69fd995a",
-      "Size": 343
+      "Size": 343,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Spear_01.png",
       "Hash": "a968187c41b7c0dd6c985aeba278dd8f",
-      "Size": 325
+      "Size": 325,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Spear_02.png",
       "Hash": "e930eb86096ea9460d8f94eb6d8ae7cb",
-      "Size": 280
+      "Size": 280,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_01.png",
       "Hash": "2b40494020dced7dfab19be3a3f297aa",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_02.png",
       "Hash": "987f1b6c78240173a1e9d5034d76939e",
-      "Size": 308
+      "Size": 308,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_03.png",
       "Hash": "5597e8cb38468063e31817953ea55d0b",
-      "Size": 323
+      "Size": 323,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_04.png",
       "Hash": "cb00f352e672de2b51035a412e6ef79d",
-      "Size": 342
+      "Size": 342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_05.png",
       "Hash": "e9721301f7241dad8c0bc44c68c48338",
-      "Size": 385
+      "Size": 385,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_06.png",
       "Hash": "d4d2ef33d5f7b086df84982284f9f48c",
-      "Size": 310
+      "Size": 310,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_07.png",
       "Hash": "e241c7fd60f7a821ffac625fece35bdb",
-      "Size": 299
+      "Size": 299,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_08.png",
       "Hash": "dfc6eb7e6284e2aae55b5b71fbcbffd2",
-      "Size": 302
+      "Size": 302,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_09.png",
       "Hash": "97c13edc2880e0bfd6ab2c4336fda503",
-      "Size": 305
+      "Size": 305,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Staff_10.png",
       "Hash": "75a3b1d28ffb7b3299c73884a9d696a0",
-      "Size": 386
+      "Size": 386,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Stick_01.png",
       "Hash": "97ae9b5f473f87dea3cce285a972ec0c",
-      "Size": 265
+      "Size": 265,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_01.png",
       "Hash": "37c13077ec6de2cd4061adc24d86a994",
-      "Size": 308
+      "Size": 308,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_02.png",
       "Hash": "dcafec402dd2a8dcfa4d703f0818f273",
-      "Size": 332
+      "Size": 332,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_03.png",
       "Hash": "59a1409c22afd8ac0f16db2d2aeaeafc",
-      "Size": 336
+      "Size": 336,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_04.png",
       "Hash": "7d49d1eacdc0099c8c5c22087e1c19d4",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_05.png",
       "Hash": "595992d6551419a2385a4372c756811e",
-      "Size": 265
+      "Size": 265,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_06.png",
       "Hash": "67f5a4af364e5f3abfd8f7eb27ac93d2",
-      "Size": 297
+      "Size": 297,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_07.png",
       "Hash": "0651fa29196be3127344b8d3cd79f33a",
-      "Size": 277
+      "Size": 277,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_08.png",
       "Hash": "bf9dffcad2b45c78129c213c28a22962",
-      "Size": 366
+      "Size": 366,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_09.png",
       "Hash": "58c7f1421a1b51956158f3753ea4a486",
-      "Size": 360
+      "Size": 360,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_10.png",
       "Hash": "8304b3d5852d2e29db78c216ad2775bf",
-      "Size": 385
+      "Size": 385,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_11.png",
       "Hash": "d4f256f43dff24dcd34fe2673d55a981",
-      "Size": 301
+      "Size": 301,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_12.png",
       "Hash": "f6da6888208f4967e8d26e68accdeb1a",
-      "Size": 340
+      "Size": 340,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_13.png",
       "Hash": "47292525ac3881b346aa711ac42a9834",
-      "Size": 398
+      "Size": 398,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_14.png",
       "Hash": "f38d141b0955c9d4e8e6e7602b951433",
-      "Size": 385
+      "Size": 385,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_15.png",
       "Hash": "c5f022626343bc450884bd2396ce6234",
-      "Size": 395
+      "Size": 395,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_16.png",
       "Hash": "186f0526439a552841635d2e7dc42136",
-      "Size": 393
+      "Size": 393,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_17.png",
       "Hash": "b6575af00f0cc90901970e3941cc9977",
-      "Size": 361
+      "Size": 361,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_18.png",
       "Hash": "bf16a351f48eab342d72dbcdc583cbd1",
-      "Size": 493
+      "Size": 493,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_19.png",
       "Hash": "ed925efea310ee6f30bcc38147c098e9",
-      "Size": 311
+      "Size": 311,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_20.png",
       "Hash": "e3f759ba51207c2aef5d0b82fc545c61",
-      "Size": 416
+      "Size": 416,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_21.png",
       "Hash": "fc701a2219d6f22f99ef29eea3a3c916",
-      "Size": 330
+      "Size": 330,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_22.png",
       "Hash": "1d2b0a3a25b31e9bb1438633fa978c04",
-      "Size": 423
+      "Size": 423,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_23.png",
       "Hash": "ddd9cfcf1988be76b0de186026141dfa",
-      "Size": 348
+      "Size": 348,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_24.png",
       "Hash": "5e0c52edf7e37dceaa039d43e02bf919",
-      "Size": 478
+      "Size": 478,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_25.png",
       "Hash": "6ecbd11f257d02ebd8c089c9bb6382e2",
-      "Size": 310
+      "Size": 310,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_26.png",
       "Hash": "84aa82fcf622865a5278ce29bb71bf92",
-      "Size": 305
+      "Size": 305,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_27.png",
       "Hash": "e7774843d2b700210fd070c411e956da",
-      "Size": 305
+      "Size": 305,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_28.png",
       "Hash": "c503bf39ba0fc882aa1ae0637e61d3a5",
-      "Size": 313
+      "Size": 313,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_29.png",
       "Hash": "caaa44f8754fc2342133a5fe5593b37a",
-      "Size": 304
+      "Size": 304,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_30.png",
       "Hash": "7bd515e717c44c698d3491b7ca294443",
-      "Size": 308
+      "Size": 308,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_31.png",
       "Hash": "35269f6b86051407e324a3b06e55bd6a",
-      "Size": 308
+      "Size": 308,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_32.png",
       "Hash": "4a1b38ffe0ecafb23d482688c4700384",
-      "Size": 346
+      "Size": 346,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_33.png",
       "Hash": "ceb17ee9b73ee0dd2f43009520448404",
-      "Size": 345
+      "Size": 345,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Sword_34.png",
       "Hash": "797fc318a8622533570077cb43b7b942",
-      "Size": 357
+      "Size": 357,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Wood_01.png",
       "Hash": "ecb6116ed4d9ed52c08ff3b02272714e",
-      "Size": 365
+      "Size": 365,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Wood_02.png",
       "Hash": "ac06544d98c575828e4d4c71a990e3ee",
-      "Size": 317
+      "Size": 317,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Wood_03.png",
       "Hash": "edd026c2247642b198c15d35b0d14884",
-      "Size": 287
+      "Size": 287,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/items/Worm_01.png",
       "Hash": "744c78758d7ca6fa75cf1e48f831cf7a",
-      "Size": 279
+      "Size": 279,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/attributes.png",
       "Hash": "133bb3e1a8e496fe1df9161b2825a3c6",
-      "Size": 3790
+      "Size": 3790,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/castbackground.png",
       "Hash": "8fdbfd26cb9fce1a0230f5df14114dd6",
-      "Size": 153
+      "Size": 153,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/castbar.png",
       "Hash": "71b62e26e677205fece8b30c644ae1e6",
-      "Size": 181
+      "Size": 181,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/chatbubble.png",
       "Hash": "aae7ffc85c7f4a4afa9f10c7003bea51",
-      "Size": 308
+      "Size": 308,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/directions.png",
       "Hash": "ad6e65ed20e8b0a478efae26b99f2250",
-      "Size": 829
+      "Size": 829,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/eventicon.png",
       "Hash": "e04fe89d32e14d8f0071bb922ca038e8",
-      "Size": 236
+      "Size": 236,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/hpbackground.png",
       "Hash": "a507cbd9c374bbc9b08b97abfd57a35c",
-      "Size": 153
+      "Size": 153,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/hpbar.png",
       "Hash": "245aa803fe4db161a1e2d0e6315799c0",
-      "Size": 177
+      "Size": 177,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/lighticon.png",
       "Hash": "6045a258ca2f7cceb8ea85bf3d4e921b",
-      "Size": 214
+      "Size": 214,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/shieldbar.png",
       "Hash": "4f4075d39031ed6a6a525e4e754efa6f",
-      "Size": 173
+      "Size": 173,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/spawnicon.png",
       "Hash": "be720ecff61f57c092cf2a7ee43e7cfa",
-      "Size": 358
+      "Size": 358,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/target.png",
       "Hash": "53ecb8a8088883648ed96971ff7c650a",
-      "Size": 721
+      "Size": 721,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/misc/transtile.png",
       "Hash": "7f5832d5e5dcf18d876d885f56bf9ba7",
-      "Size": 195
+      "Size": 195,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/music/Adrift.ogg",
@@ -3328,299 +3837,388 @@
       "Size": 310257
     },
     {
+      "Path": "resources/packs/0.json",
+      "Hash": "be8a24a80618f39ec0c19f7fc1f2b47f",
+      "Size": 62057
+    },
+    {
+      "Path": "resources/packs/0.png",
+      "Hash": "83a8a8d955b8037aa7e270d12ccc5289",
+      "Size": 779197
+    },
+    {
+      "Path": "resources/packs/1.json",
+      "Hash": "fc5d8df1b772ac03e6c9402c5d5cd7e2",
+      "Size": 39485
+    },
+    {
+      "Path": "resources/packs/1.png",
+      "Hash": "14e3a3ca6bfbdb15a0a53bba6094c961",
+      "Size": 2051312
+    },
+    {
+      "Path": "resources/packs/2.json",
+      "Hash": "b5c264f66c098f7cdd92b2d8ea282ab1",
+      "Size": 125705
+    },
+    {
+      "Path": "resources/packs/2.png",
+      "Hash": "7f9df3c1481d3f3261592559f0b43838",
+      "Size": 536375
+    },
+    {
       "Path": "resources/paperdolls/pdollarmor2FM.png",
       "Hash": "54b599402053edccd8060b969822f464",
-      "Size": 1801
+      "Size": 1801,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollarmorFM.png",
       "Hash": "60e1b89b7329616bb93a11414467cb87",
-      "Size": 1808
+      "Size": 1808,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollhair1.png",
       "Hash": "5f3d29124e5ce28cd396cf4289a1b52a",
-      "Size": 1810
+      "Size": 1810,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollhair2FM.png",
       "Hash": "de64cc77a0fa041015fea01897e00893",
-      "Size": 2610
+      "Size": 2610,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollhat.png",
       "Hash": "b6963ff5e0dfd2aa9be3e57053ceb703",
-      "Size": 765
+      "Size": 765,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollswordFM.png",
       "Hash": "658fa799d3b804c58ce3bdc2d03c2d76",
-      "Size": 773
+      "Size": 773,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/paperdolls/pdollswordM.png",
       "Hash": "e17b35212e956b3d7983e01713637c8f",
-      "Size": 758
+      "Size": 758,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Cactus Stump.png",
       "Hash": "40454a274cb1283de2c1afd0b7a9df62",
-      "Size": 321
+      "Size": 321,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Cactus.png",
       "Hash": "f2713f338aac7b4683e288ccfcd0d304",
-      "Size": 451
+      "Size": 451,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Black.png",
       "Hash": "c64d640857147f6206e74d330adc871a",
-      "Size": 856
+      "Size": 856,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Blue.png",
       "Hash": "d0d3dc4ade4b3ac8243d6528afa06bc3",
-      "Size": 857
+      "Size": 857,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Empty.png",
       "Hash": "6a5171b37d9f1d9bcf0402c79e01189b",
-      "Size": 847
+      "Size": 847,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Green.png",
       "Hash": "180facc96985e06ef259a38b4f385485",
-      "Size": 857
+      "Size": 857,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Purple.png",
       "Hash": "5601e7f84ed79ca5db931669101ec8b6",
-      "Size": 861
+      "Size": 861,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Red.png",
       "Hash": "ead07809600ec59bef2944cf19b8b232",
-      "Size": 860
+      "Size": 860,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Ore Yellow.png",
       "Hash": "9662a20de9917564a590bc69f221e109",
-      "Size": 856
+      "Size": 856,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Blue.png",
       "Hash": "fc04ba8170e3786ef41d54dbb8469e75",
-      "Size": 403
+      "Size": 403,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Green.png",
       "Hash": "06724406c0329310500fc35a1f2937d5",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Hole.png",
       "Hash": "716b1a27dab37d45bdbc425109ae21a6",
-      "Size": 255
+      "Size": 255,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Purple.png",
       "Hash": "f3be9cbc26c66c7b4bc091838031799b",
-      "Size": 421
+      "Size": 421,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Red.png",
       "Hash": "a711f5a5ede8ed1e1760ca1932b09ce3",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant White.png",
       "Hash": "99a25d8c3b451cd16586ec0a925d36d0",
-      "Size": 404
+      "Size": 404,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Plant Yellow.png",
       "Hash": "52d0ff3fd56c92032279bb7fec04dd30",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Stump.png",
       "Hash": "df5c97957386267693a56d188beb57c9",
-      "Size": 971
+      "Size": 971,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Tree Blue.png",
       "Hash": "f7e8ba870d70688221493413303e4d4f",
-      "Size": 4055
+      "Size": 4055,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Tree Green.png",
       "Hash": "b19ac90e4ae7e394c819c8a2cddc217c",
-      "Size": 4046
+      "Size": 4046,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Tree Red.png",
       "Hash": "99f520cf327da6ffeeabffb708f431a9",
-      "Size": 4058
+      "Size": 4058,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/1_Tree Yellow.png",
       "Hash": "38a6e01da37d8989a1c11ade96d7090e",
-      "Size": 4057
+      "Size": 4057,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant Blue.png",
       "Hash": "515383e252ce64b2d44cede7960b4d0c",
-      "Size": 385
+      "Size": 385,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant Green.png",
       "Hash": "33386741ab0ef8bb37a5ca19f353a1c6",
-      "Size": 386
+      "Size": 386,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant Purple.png",
       "Hash": "29e7cf43dc53e9748dc915ed165fe9fc",
-      "Size": 390
+      "Size": 390,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant Red.png",
       "Hash": "17b0a980955e002376badb0c02172cfd",
-      "Size": 386
+      "Size": 386,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant White.png",
       "Hash": "2309e6ba8fb368d3c6b28ba03a52e687",
-      "Size": 386
+      "Size": 386,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Plant Yellow.png",
       "Hash": "2f334dcd17208fc964c910252e8e2136",
-      "Size": 376
+      "Size": 376,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Stump.png",
       "Hash": "fa3ea63143d5500c9758cbd7bc1cc433",
-      "Size": 426
+      "Size": 426,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Tree Blue.png",
       "Hash": "e870ea2f9a370d6c50b46505a3b5e2d9",
-      "Size": 1340
+      "Size": 1340,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Tree Green.png",
       "Hash": "96241f21365fbbec849344277d6fab09",
-      "Size": 1338
+      "Size": 1338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Tree Red.png",
       "Hash": "62a3dfe940ebdb84581d84ffb13581cd",
-      "Size": 1350
+      "Size": 1350,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/2_Tree Yellow.png",
       "Hash": "bfcfd416258ed1ae16be8954a0312983",
-      "Size": 1351
+      "Size": 1351,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/3_Stump.png",
       "Hash": "5e9fb56aff782f3bd227f2b6d01149d3",
-      "Size": 388
+      "Size": 388,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/3_Tree Blue.png",
       "Hash": "55455fffe316d4cdf1a647aa44d8167d",
-      "Size": 663
+      "Size": 663,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/3_Tree Green.png",
       "Hash": "73dcaf091734c52116da8c00c6de26d9",
-      "Size": 670
+      "Size": 670,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/3_Tree Red.png",
       "Hash": "4d548a4154d6f121cacbbf8df0011b0b",
-      "Size": 674
+      "Size": 674,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/3_Tree Yellow.png",
       "Hash": "339451ffcd216c5a34460bafe75fd9bc",
-      "Size": 670
+      "Size": 670,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/4_Stump.png",
       "Hash": "fa3ea63143d5500c9758cbd7bc1cc433",
-      "Size": 426
+      "Size": 426,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/4_Tree Blue.png",
       "Hash": "e47b8afbcf447e6d45e4c386248dcb9f",
-      "Size": 1202
+      "Size": 1202,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/4_Tree Green.png",
       "Hash": "3597e1cd4e418965a795fff8596106f0",
-      "Size": 1201
+      "Size": 1201,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/4_Tree Red.png",
       "Hash": "26b23b847876491927d340e8db785128",
-      "Size": 1206
+      "Size": 1206,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/4_Tree Yellow.png",
       "Hash": "394fd96691ab87cc21fd934484aee369",
-      "Size": 1205
+      "Size": 1205,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/5_Stump.png",
       "Hash": "72d846674b334061e12e6d741bcb0f48",
-      "Size": 396
+      "Size": 396,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/5_Tree Blue.png",
       "Hash": "2761662ec8ca99ec8853290c972e5f0b",
-      "Size": 1443
+      "Size": 1443,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/5_Tree Green.png",
       "Hash": "3470927483196495bffacd73e1d6963f",
-      "Size": 1506
+      "Size": 1506,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/5_Tree Red.png",
       "Hash": "15766fdf4074577bae598796d9d88e2f",
-      "Size": 1443
+      "Size": 1443,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/5_Tree Yellow.png",
       "Hash": "af0a45d7111a28767824f3bbea3f7e1b",
-      "Size": 1443
+      "Size": 1443,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/6_Stump.png",
       "Hash": "72d846674b334061e12e6d741bcb0f48",
-      "Size": 396
+      "Size": 396,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/6_Tree Blue.png",
       "Hash": "6133ea40fbfdd3b20b28f1268a189559",
-      "Size": 1101
+      "Size": 1101,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/6_Tree Green.png",
       "Hash": "4f47bcc7d32e20eca5515d6e3d98f72e",
-      "Size": 1092
+      "Size": 1092,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/6_Tree Red.png",
       "Hash": "442c0feabad0cf918519e1e9b8eed7e9",
-      "Size": 1090
+      "Size": 1090,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/resources/6_Tree Yellow.png",
       "Hash": "92b87f26b58848b7d0641d06e7758391",
-      "Size": 1088
+      "Size": 1088,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/shaders/radialgradient.xnb",
@@ -3690,217 +4288,260 @@
     {
       "Path": "resources/spells/Dash.png",
       "Hash": "713401a71e968e1848b6ac308ab64da4",
-      "Size": 342
+      "Size": 342,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Earth_01.png",
       "Hash": "fe1dcd2c607deadf037939ad1b93aca6",
-      "Size": 347
+      "Size": 347,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Earth_02.png",
       "Hash": "e18ab4ac446ac3bdda1330358e70bd97",
-      "Size": 328
+      "Size": 328,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Electric_01.png",
       "Hash": "41d642865e4f39e8f662dba11259adc3",
-      "Size": 351
+      "Size": 351,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Electric_02.png",
       "Hash": "724ede4645baf8c686789f7473bd39c9",
-      "Size": 415
+      "Size": 415,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Fire_01.png",
       "Hash": "f5dfcaa4c48b9c00174f7699c57fb2e0",
-      "Size": 371
+      "Size": 371,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Fire_02.png",
       "Hash": "125f7ef7377946b7cd7a85e971c2fc43",
-      "Size": 420
+      "Size": 420,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Heal_01.png",
       "Hash": "d6be982578fadeaf5dda8671c60db7be",
-      "Size": 385
+      "Size": 385,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Heal_02.png",
       "Hash": "2de3e49609a482e17e67346631313bd1",
-      "Size": 293
+      "Size": 293,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Ice_01.png",
       "Hash": "3b6f1dc1a46dfca470eff60f99d89b0e",
-      "Size": 362
+      "Size": 362,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Ice_02.png",
       "Hash": "5520da2c1393df35b9b45229dcd709cf",
-      "Size": 297
+      "Size": 297,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Poison_01.png",
       "Hash": "275a637e5528fd7a8c99b5e43762cd95",
-      "Size": 395
+      "Size": 395,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Poison_02.png",
       "Hash": "1b4e0b4c7ceeca74d9479fac3d6e73be",
-      "Size": 353
+      "Size": 353,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/ProjectileBuff_01.png",
       "Hash": "fe8de76446e72d9a4e2be0548c2c6522",
-      "Size": 395
+      "Size": 395,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/ProjectileBuff_02.png",
       "Hash": "b9e78a8bd5dc68d7a66877d0a1c87129",
-      "Size": 420
+      "Size": 420,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Revive.png",
       "Hash": "fcedd1f39b703e1aeef4e32e03784575",
-      "Size": 392
+      "Size": 392,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Spirit_01.png",
       "Hash": "d04f9d92203d1bd175b18bf501accfd1",
-      "Size": 414
+      "Size": 414,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Spirit_02.png",
       "Hash": "27e48ad64eb8af2d0af0a567592c8da1",
-      "Size": 345
+      "Size": 345,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Water_01.png",
       "Hash": "0978151be21f6335a773134bdfbc9738",
-      "Size": 318
+      "Size": 318,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Water_02.png",
       "Hash": "b7121cc0fe5942e7f29ef91752cd0047",
-      "Size": 348
+      "Size": 348,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/WeaponBuff_01.png",
       "Hash": "1a9d8d84cbf2c57a0951586146392cc0",
-      "Size": 424
+      "Size": 424,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/WeaponBuff_02.png",
       "Hash": "79b6ac290e79154d102b5bbf6b447d6c",
-      "Size": 470
+      "Size": 470,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Wind_01.png",
       "Hash": "ad3072d82d3802aa1af53fa663f7876c",
-      "Size": 354
+      "Size": 354,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/spells/Wind_02.png",
       "Hash": "21852be2e6726072024e52562ae589c9",
-      "Size": 396
+      "Size": 396,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Ground.png",
       "Hash": "6df416574d77a25c0101bd46b4bf69c1",
-      "Size": 51007
+      "Size": 51007,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Houses.png",
       "Hash": "a1d45b301a6f70969a2b338b23393221",
-      "Size": 540261
+      "Size": 540261,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Interior & Terrain.png",
       "Hash": "5acee6ccf4a7af0fcec4bc59913fe743",
-      "Size": 50034
+      "Size": 50034,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Water & Lava 2.png",
       "Hash": "02213ef680de6c75135e1c8f18c678da",
-      "Size": 18242
+      "Size": 18242,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Water & Lava.png",
       "Hash": "b5f91b8978c4f06284e553899a17772e",
-      "Size": 13603
+      "Size": 13603,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Autotiles_Water.png",
       "Hash": "51273dd36ee2387a291f74782744a431",
-      "Size": 13711
+      "Size": 13711,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Caves Etc.png",
       "Hash": "9e770dfaa3d967f6ec9ce020321f287c",
-      "Size": 1070861
+      "Size": 1070861,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Ground.png",
       "Hash": "90339580a2dffa97812c7bc9b1b55132",
-      "Size": 16464
+      "Size": 16464,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Interior.png",
       "Hash": "aaf77be6bb966e50fcc2961473ac5f19",
-      "Size": 28517
+      "Size": 28517,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Misc.png",
       "Hash": "5b2206482f7a1ec0cf471275540421bc",
-      "Size": 4113
+      "Size": 4113,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Overworld.png",
       "Hash": "a23428f3cdf3d8bf020ae70bb4592186",
-      "Size": 1072106
+      "Size": 1072106,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Overworld_2.png",
       "Hash": "c1263670456e9b5ccd1cca6dfa4b6299",
-      "Size": 11480
+      "Size": 11480,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Slanted Roofs.png",
       "Hash": "e677539748b82a3fa5ac298ca35561df",
-      "Size": 9329
+      "Size": 9329,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/Terrain.png",
       "Hash": "1c2107f82e4e313f083c1b46201687c7",
-      "Size": 19432
+      "Size": 19432,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/tileset1.png",
       "Hash": "6be68f4332d0cb3a6e22dd8640591d64",
-      "Size": 9877
+      "Size": 9877,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/tileset2.png",
       "Hash": "8a4f0d546d8013e67b5f8bba827e9641",
-      "Size": 12502
+      "Size": 12502,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/tileset3.png",
       "Hash": "84dfc112a166b01ec396ae77fad3aead",
-      "Size": 2200
+      "Size": 2200,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/tileset4.png",
       "Hash": "d9a11c4d77dcf39f451cff620eb7cb73",
-      "Size": 2338
+      "Size": 2338,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/tilesets/tileset5.png",
       "Hash": "8443c61a9b7c9feeb86928eb818b63a8",
-      "Size": 3167
+      "Size": 3167,
+      "ClientIgnore": true
     },
     {
       "Path": "resources/updater/background.png",
