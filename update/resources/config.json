@@ -1,5 +1,5 @@
 ﻿{
-  "Host": "localhost",
+  "Host": "99.99.68.166",
   "Port": 25565,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
@@ -10,5 +10,5 @@
   "MenuMusic": "",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": ""
+  "UpdateUrl": "https://dingasu.github.io/game-updates/"
 }
