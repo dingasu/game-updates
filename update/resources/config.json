@@ -1,0 +1,14 @@
+﻿{
+  "Host": "localhost",
+  "Port": 25565,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "",
+  "MenuBackground": "background.png",
+  "IntroImages": [],
+  "UpdateUrl": ""
+}
